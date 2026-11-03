@@ -1,0 +1,7 @@
+customtkinter
+numpy
+sounddevice
+soundfile
+imageio-ffmpeg
+torch
+git+https://github.com/myshell-ai/OpenVoice.git

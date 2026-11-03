@@ -1,0 +1,9 @@
+.venv/
+venv/
+__pycache__/
+*.pyc
+build/
+dist/
+.env
+checkpoints_v2/
+*.wav
